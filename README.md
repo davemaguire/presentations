@@ -4,8 +4,10 @@ Welcome to David's Conference Presentations repository! This repository is dedic
 # Conferences
 ### 2022 - RStudio Conference
 **Topic:** MLOps for robust model deployments
+
 At dv01, David manages a machine learning model that customers use to obtain real-time predictions in our web app. In this presentation, he delves into how his team applies principles of MLOps to serve a machine learning model with high availability and low latency. You will gain insights into the practical aspects of implementing MLOps and ensuring the smooth operation of machine learning systems in a production environment.
 
 ### 2023 - dbt Coalesce
-**Topic:** Modernizing Data Pipelines with dbt Cloud and BigQuery
-Abstract: Dive into the exciting journey of how dv01 has leveraged dbt Cloud and BigQuery to create a scalable and modern data pipeline for offerings in loan warehousing analytics. These products cater to a niche market in finance and are managed by a team of financial analysts with deep industry expertise. Initially relying on Excel-based workflows to track the performance of millions of loans from various sources and file structures, the team faced challenges as their client base grew. Join David as he discusses the transition to a reliable solution: a scalable data pipeline with dbt Cloud and BigQuery. Explore how this transformation has allowed the team to scale in a growing market and provide innovative new products and services to their clients.
+**Topic:** Building cross-functional data teams with a modern data stack
+
+Dive into the exciting journey of how dv01 has leveraged dbt Cloud and BigQuery to create a scalable and modern data pipeline for offerings in loan warehousing analytics. These products cater to a niche market in finance and are managed by a team of financial analysts with deep industry expertise. Initially relying on Excel-based workflows to track the performance of millions of loans from various sources and file structures, the team faced challenges as their client base grew. Join David as he discusses the transition to a reliable solution: a scalable data pipeline with dbt Cloud and BigQuery. Explore how this transformation has allowed the team to scale in a growing market and provide innovative new products and services to their clients.
